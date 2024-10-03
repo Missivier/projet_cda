@@ -2,4 +2,4 @@
 
 ## /Commandes Utiles/
 
-- <ins>python -m venv {nom de l'environement}</ins> : création de l'environnment virtuel
+- `python -m venv {nom de l'environement}` : création de l'environnment virtuel
